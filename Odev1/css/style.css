@@ -1,0 +1,24 @@
+h1 , p, li, nav {
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color:blueviolet;
+    font-style: italic;
+}
+h3{
+    color:rgb(202, 26, 26);
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bar {
+font-size: 20px;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
