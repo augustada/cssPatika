@@ -1,4 +1,5 @@
 # Google Search Page with Html/CSS
  cssPatika-Odev3
  Google Ana Sayfasını Tasarlamak
-<img source="https://github.com/augustada/cssPatika/blob/41cef4d3387be39efa0da3f1b9859d6832394eb3/Odev3/google.png">
+
+![google](https://github.com/augustada/cssPatika/assets/67192793/93b65ab1-b5b9-4901-9661-3bfd4705fadb)
